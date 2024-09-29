@@ -1,0 +1,104 @@
+{
+    "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq": {
+        "id": 1,
+        "balance": 3303,
+        "name": "Adilzhan"
+    },
+    "fP7QWDQ2eNAQ1uSxcCtyOyGCaTaADI0B": {
+        "id": 2,
+        "balance": 5401,
+        "name": "Dias"
+    },
+    "3a4dab1ba5fe4bd7cc1a6b6977f8f0f5": {
+        "id": 3,
+        "balance": 7000,
+        "name": "Aruzhan"
+    },
+    "d18cf728c28bc918294d1ec86ccf465d": {
+        "id": 4,
+        "balance": 1594,
+        "name": "admin"
+    },
+    "fc11dce2c22ba4d3b68f4a6809696577": {
+        "id": 5,
+        "balance": 8000,
+        "name": "Erzhan"
+    },
+    "a8917ef96583066f1a498f5038e4cacc": {
+        "id": 6,
+        "balance": 5000,
+        "name": "Ruslan"
+    },
+    "963c9c085aa2e3b361472d1f2bb1860f": {
+        "id": 7,
+        "name": "Dimash",
+        "balance": 1801
+    },
+    "a82e484401c63cb896ab6ecfbb8622d4": {
+        "id": 8,
+        "name": "Timur",
+        "balance": "1500",
+        "token": "a82e484401c63cb896ab6ecfbb8622d4"
+    },
+    "39a6f5ff9a2641076d9c8fa14369d506": {
+        "id": 9,
+        "name": "Kanzia",
+        "balance": "6000",
+        "token": null
+    },
+    "83e29fc4a5d93edab565d3a2b618fd6e": {
+        "id": 10,
+        "name": "Robert",
+        "balance": "8989"
+    },
+    "fd3841c5dfc2e971b791c0f8f2033b79": {
+        "id": 11,
+        "name": "",
+        "balance": "1500 1600 1700 1800"
+    },
+    "3873886811449d7b22dfe594184144b1": {
+        "id": 12,
+        "name": "",
+        "balance": "1500 1600 1700 1800"
+    },
+    "ba6cbbbac5091dfe998df53e3917ae52": {
+        "id": 13,
+        "name": "Maxim",
+        "balance": "1500"
+    },
+    "d5d07a469f5cfffa73c4a0dfc7036265": {
+        "id": 14,
+        "name": " Dima",
+        "balance": " 1600"
+    },
+    "904f80231960aaf400be907f03ea22be": {
+        "id": 15,
+        "name": " Andry",
+        "balance": " 1700"
+    },
+    "b9b8cf62a2b5af19021f0051e1d0cb1a": {
+        "id": 16,
+        "name": " Xcho",
+        "balance": " 1800"
+    },
+    "9314c3e5b28d7f1ebf85914a741e746c": {
+        "id": 17,
+        "name": "Maxim",
+        "balance": "1500"
+    },
+    "53a0ceede04cd7efbb3bd221ff6a3462": {
+        "id": 18,
+        "name": " Dima",
+        "balance": " 1600"
+    },
+    "9e0890b0028d80993a91736a57f28601": {
+        "id": 19,
+        "name": " Andry",
+        "balance": " 1700"
+    },
+    "81ed55f3abde2673f02c44af0ffab0c5": {
+        "id": 20,
+        "name": " Xcho",
+        "balance": 1771
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "user_id": "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq",
+        "products": {
+            "id": 5,
+            "name": "Keyboard",
+            "price": "19"
+        }
+    },
+    "2": {
+        "user_id": "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq",
+        "products": {
+            "id": 5,
+            "name": "Keyboard",
+            "price": "19"
+        }
+    },
+    "3": {
+        "user_id": "fP7QWDQ2eNAQ1uSxcCtyOyGCaTaADI0B",
+        "products": {
+            "id": 2,
+            "name": "Laptop",
+            "price": "599"
+        }
+    },
+    "4": {
+        "user_id": "fP7QWDQ2eNAQ1uSxcCtyOyGCaTaADI0B",
+        "products": {
+            "id": 2,
+            "name": "Laptop",
+            "price": "599"
+        }
+    },
+    "5": {
+        "user_id": "963c9c085aa2e3b361472d1f2bb1860f",
+        "products": {
+            "id": 1,
+            "name": "Smartphone",
+            "price": "399"
+        }
+    },
+    "6": {
+        "user_id": "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq",
+        "products": {
+            "id": 3,
+            "name": "Headphones",
+            "price": "49"
+        }
+    },
+    "7": {
+        "user_id": "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq",
+        "products": {
+            "id": 2,
+            "name": "Laptop",
+            "price": "599"
+        }
+    },
+    "8": {
+        "user_id": "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq",
+        "products": {
+            "id": 3,
+            "name": "Headphones",
+            "price": "49"
+        }
+    }
+}

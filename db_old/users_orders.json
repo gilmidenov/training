@@ -1,0 +1,29 @@
+{
+    "ndfPO4bLHSf9Zd9c3spnNfP80hQTFDoq": {
+        "0": 1,
+        "basket": {
+            "1": {
+                "id": 1,
+                "name": "Smartphone",
+                "price": "399"
+            }
+        },
+        "1": 7,
+        "2": 8
+    },
+    "81ed55f3abde2673f02c44af0ffab0c5": {
+        "basket": {
+            "1": {
+                "id": 1,
+                "name": "Smartphone",
+                "price": "399"
+            },
+            "2": {
+                "id": 2,
+                "name": "Laptop",
+                "price": "599"
+            }
+        },
+        "0": 9
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "a87b69bf4a1684775b29fdc9e2862804": {
+        "id": 1,
+        "name": "Smartphone",
+        "price": "399"
+    },
+    "a5551de071944f747a1f303ae38b8aee": {
+        "id": 2,
+        "name": "Laptop",
+        "price": "599"
+    },
+    "da05d6b17929322716caf2b04487208b": {
+        "id": 3,
+        "name": "Headphones",
+        "price": "49"
+    },
+    "aca860b2b6d4d214d025cc9ae4be8de5": {
+        "id": 4,
+        "name": "Mouse",
+        "price": "29"
+    },
+    "8dee85a2c1945b6773b5da15457e584f": {
+        "id": 5,
+        "name": "Keyboard",
+        "price": "19"
+    },
+    "d6cda3f0dfb817a895d35a9730974a89": {
+        "id": 6,
+        "name": "tele2",
+        "price": "299"
+    },
+    "9a1eb6589b81c56c091b35b29f8da93a": {
+        "id": 7,
+        "name": " altel",
+        "price": " 199"
+    },
+    "9a9905c82a71047f681ded0521172330": {
+        "id": 8,
+        "name": " beeline",
+        "price": " 399"
+    },
+    "c41027b30b9c62b8960ddcabe3970cd2": {
+        "id": 9,
+        "name": " Kcell",
+        "price": " 159"
+    },
+    "83247f4f1cf2960cd1e5bb9b53617cdb": {
+        "id": 10,
+        "name": "Tele2",
+        "price": "299"
+    },
+    "98055d595172cdc4666806711a4943c7": {
+        "id": 11,
+        "name": "Altel",
+        "price": " 199"
+    },
+    "afe761af4f6c6ea3b6a1fc827fc3f8cf": {
+        "id": 12,
+        "name": "Beeline",
+        "price": " 399"
+    },
+    "4252e42847f4d42b29beee54f53079ad": {
+        "id": 13,
+        "name": "Kcell",
+        "price": " 159"
+    }
+}
