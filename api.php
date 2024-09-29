@@ -13,11 +13,6 @@ error_reporting(E_ALL);
 
 require_once 'C:\OSPanel\home\full-example.local\public\autoloader.php';
 
-//include 'C:\OSPanel\home\full-example.local\public\source\JsonModels\User.php';
-//include 'C:\OSPanel\home\full-example.local\public\source\JsonModels\Product.php';
-//include 'C:\OSPanel\home\full-example.local\public\source\JsonModels\Database.php';
-//include 'C:\OSPanel\home\full-example.local\public\source\Base\Logger.php';
-
 function generateToken($length = 32)
 {
     return bin2hex(random_bytes($length / 2));
